@@ -85,11 +85,11 @@ const styles = StyleSheet.create({
   buttonContainer: {
     flexDirection: 'row',
     width: '100%',
-    justifyContent: 'space-between',
+    justifyContent: 'space-around',
     paddingHorizontal: 15
   },
   button: {
-    width: 100
+    width: 80
   },
   input: {
     width: 50,
