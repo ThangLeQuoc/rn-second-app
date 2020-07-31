@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=qSRrxpdMpVc
 - npm start  
 - Open in a virtual Android Device / iOS, or run on real device via Expo  
 
-[Imgur](https://i.imgur.com/cDKgCpA.png)
+![Imgur-StartScreen](https://i.imgur.com/cDKgCpA.png)
 
-![Imgur](https://i.imgur.com/5n69dSe.png)
+![Imgur-GameScreen](https://i.imgur.com/5n69dSe.png)
+
+![Imgur-End Game Screen](https://i.imgur.com/OwNdVmR.png)
